@@ -1,0 +1,260 @@
+﻿Product,Type,Unit,Selling price,Stock,Standard cost,A,B,C
+Buildrite Epoxy Primer,Gray (Liter),liters,0,0,,5,10,15
+Buildrite Epoxy Primer,Gray (Gallon),gallons,1255,4,,2,4,6
+Buildrite Epoxy Primer,Red (Liter),liters,0,0,,5,10,15
+Buildrite Epoxy Primer,Red (Gallon),gallons,1418,4,,2,4,6
+Buildrite Epoxy Primer,White (Liter),liters,310,48,,5,10,15
+Buildrite Epoxy Primer,White (Gallon),gallons,0,0,,2,4,6
+Buildrite Epoxy Primer,Black (Liter),liters,0,0,,5,10,15
+Buildrite Epoxy Primer,Black (Gallon),gallons,1420,4,,2,4,6
+Finishing Nails,#1,kg,100,25,,10,20,30
+Finishing Nails,#2,kg,100,50,,10,20,30
+Finishing Nails,#2.5,kg,100,75,,10,20,30
+Hardiflex Nail,,kg,130,200,,10,20,30
+Common Wire Nail,#1,kg,75,100,,10,20,30
+Common Wire Nail,#1 1/2,kg,75,175,,10,20,30
+Common Wire Nail,#2,kg,75,250,,10,20,30
+Common Wire Nail,#2 1/2,kg,75,850,,10,20,30
+Common Wire Nail,#3,kg,70,625,,10,20,30
+Common Wire Nail,#4,kg,70,600,,10,20,30
+Common Wire Nail,#5,kg,85,50,,10,20,30
+Common Wire Nail,#6,kg,85,50,,10,20,30
+Concrete Hollow Blocks (CHB),"4""",pcs,20,5000,,1500,2500,4000
+Concrete Hollow Blocks (CHB),"6""",pcs,27,1000,,1500,2500,4000
+Boysen,QDE Maroon (Liter),liters,245,12,,5,10,15
+Boysen,QDE Maroon (Gallon),gallons,910,4,,2,4,6
+Boysen,QDE Bright Red (Liter),liters,0,0,,5,10,15
+Boysen,QDE Bright Red (Gallon),gallons,1020,8,,2,4,6
+Boysen,QDE International Red (Liter),liters,245,12,,5,10,15
+Boysen,QDE International Red (Gallon),gallons,845,4,,2,4,6
+Boysen,QDE Delft Blue (Liter),liters,245,12,,5,10,15
+Boysen,QDE Delft Blue (Gallon),gallons,905,4,,2,4,6
+Boysen,QDE Sky Blue (Liter),liters,0,0,,5,10,15
+Boysen,QDE Sky Blue (Gallon),gallons,990,4,,2,4,6
+Boysen,QDE Nile Green (Liter),liters,230,12,,5,10,15
+Boysen,QDE Nile Green (Gallon),gallons,890,8,,2,4,6
+Boysen,QDE Choco Brown (Liter),liters,220,12,,5,10,15
+Boysen,QDE Choco Brown (Gallon),gallons,890,4,,2,4,6
+Nation Flat Latex,White (Gallon),gallons,615,8,,2,4,6
+Lux Flat Latex,White (Liter),liters,198,12,,5,10,15
+Boysen,Paint Thinner (Gallon),gallons,745,8,,2,4,6
+Boysen,Lacquer Thinner (Gallon),gallons,810,4,,2,4,6
+Boysen,Roof Guard Spanish Red (Gallon),gallons,750,8,,2,4,6
+Boysen,Roof Guard Baguio Green (Gallon),gallons,890,12,,2,4,6
+Boysen,Roof Guard Pacific Blue (Gallon),gallons,750,8,,2,4,6
+Buildrite Metal Primer,Red Oxide (Liter),liters,210,12,,5,10,15
+Buildrite Metal Primer,Red Oxide (Gallon),gallons,770,16,,2,4,6
+Buildrite Metal Primer,Gray (Liter),liters,225,24,,5,10,15
+Buildrite Metal Primer,Gray (Gallon),gallons,745,16,,2,4,6
+Drum,PVC,pcs,1700,5,,50,75,100
+Drum,Steel w/ Cover,pcs,1200,3,,50,75,100
+Container,Blue,pcs,350,2,,50,75,100
+Container,Gray,pcs,350,8,,50,75,100
+Container,White,pcs,350,2,,50,75,100
+Steel Shovel,Pointed,pcs,400,60,,50,75,100
+Steel Shovel,Spade,pcs,450,14,,50,75,100
+Steel Shovel,Spade (other),pcs,400,36,,50,75,100
+Skimcoat,Bostik,bags,610,43,,,,
+Skimcoat,Buildrite,bags,390,48,,,,
+Skimcoat,Holcim,bags,580,19,,,,
+Adhesive,Smart Bond,bags,330,32,,,,
+Adhesive,Bostik Fix All,bags,360,46,,,,
+Adhesive,Holcim,bags,360,25,,,,
+Yero .14 Plus,8 Ft.,pcs,220,130,,50,75,100
+Yero .14 Plus,10 Ft.,pcs,270,150,,50,75,100
+Yero .14 Plus,12 Ft.,pcs,340,180,,50,75,100
+Yero Mega,8 Ft.,pcs,235,190,,50,75,100
+Yero Mega,10 Ft.,pcs,290,180,,50,75,100
+Yero Mega,12 Ft.,pcs,375,125,,50,75,100
+Yero Ultimate,8 Ft.,pcs,325,190,,50,75,100
+Yero Ultimate,10 Ft.,pcs,405,175,,50,75,100
+Yero Ultimate,12 Ft.,pcs,525,120,,50,75,100
+Longspan Ribtype .35 (110 Lapad),Green 8 Ft.,pcs,745,40,,50,75,100
+Longspan Ribtype .35 (110 Lapad),Green 10 Ft.,pcs,930,35,,50,75,100
+Longspan Ribtype .35 (110 Lapad),Green 12 Ft.,pcs,1100,65,,50,75,100
+Longspan Ribtype .35 (110 Lapad),Red 8 Ft.,pcs,745,125,,50,75,100
+Longspan Ribtype .35 (110 Lapad),Red 10 Ft.,pcs,930,55,,50,75,100
+Longspan Ribtype .35 (110 Lapad),Red 12 Ft.,pcs,1100,72,,50,75,100
+G.I. Ridge Roll,.3,pcs,145,20,,50,75,100
+G.I. Ridge Roll,.35,pcs,240,25,,50,75,100
+Ridge Roll w/ Color,Blue,pcs,420,25,,50,75,100
+Ridge Roll w/ Color,Green,pcs,420,28,,50,75,100
+Ridge Roll w/ Color,Red,pcs,420,27,,50,75,100
+G.I. Gutter,.3,pcs,135,75,,50,75,100
+G.I. Gutter,.35,pcs,240,30,,50,75,100
+Gutter w/ Color,Blue,pcs,420,40,,50,75,100
+Gutter w/ Color,Green,pcs,420,35,,50,75,100
+Gutter w/ Color,Red,pcs,420,38,,50,75,100
+Spanish Gutter,Blue,pcs,420,40,,50,75,100
+Spanish Gutter,Green,pcs,420,40,,50,75,100
+Spanish Gutter,Red,pcs,420,40,,50,75,100
+G.I. Flashing,.3,pcs,175,38,,50,75,100
+G.I. Flashing,.35,pcs,240,35,,50,75,100
+Spanish Flashing w/ Color,Blue,pcs,420,30,,50,75,100
+Spanish Flashing w/ Color,Green,pcs,420,25,,50,75,100
+Spanish Flashing w/ Color,Red,pcs,420,25,,50,75,100
+Metal Cladding 8 Ft.,Beige,pcs,740,90,,50,75,100
+Metal Cladding 8 Ft.,White,pcs,740,120,,50,75,100
+Plastic Roof,Green,pcs,365,20,,50,75,100
+Plastic Roof,White,pcs,365,15,,50,75,100
+RSB,6mm 1-2,pcs,72,100,,50,75,100
+RSB,7mm 1-4,pcs,85,100,,50,75,100
+RSB,7mm 1-7,pcs,90,100,,50,75,100
+RSB,8mm 1-9,pcs,100,100,,50,75,100
+RSB,10mm 2.2,pcs,115,100,,50,75,100
+RSB,12mm,pcs,175,100,,50,75,100
+RSB,16mm,pcs,252,100,,50,75,100
+RSB,16mm (other),pcs,450,100,,50,75,100
+Armour Cement,T-Red,bags,245,200,,,,
+Armour Cement,T-IP Yellow,bags,245,200,,,,
+Tile Trim,Mint Green,pcs,50,42,,50,75,100
+Tile Trim,Pink,pcs,50,15,,50,75,100
+Tile Trim,Brown,pcs,50,54,,50,75,100
+Tile Trim,Orange,pcs,50,38,,50,75,100
+Tile Trim,Sky Blue,pcs,50,57,,50,75,100
+Tile Trim,Dark Green,pcs,50,46,,50,75,100
+Chemical Hose,#1/4,meters,25,360,,,,
+Chemical Hose,#5/16,meters,60,600,,,,
+Chemical Hose,#1/2,meters,50,450,,,,
+Chemical Hose,#3/16,meters,20,600,,,,
+Chemical Hose,#3/4,meters,70,120,,,,
+Floor Mat (Makapal),,meters,95,270,,,,
+Royal Hose (Clear),#3/16,meters,6,900,,,,
+Royal Hose (Clear),#1/2,meters,20,150,,,,
+Level Hose (Green),#1/4,meters,15,900,,,,
+Insulation Foam,5mm Single,meters,70,250,,,,
+Insulation Foam,5mm Double,meters,90,300,,,,
+Insulation Foam,10mm Single,meters,100,150,,,,
+Insulation Foam,10mm Double,meters,120,50,,,,
+Wheel Barrow,,pcs,2650,9,,50,75,100
+Straw,,rolls,70,56,,5,8,12
+Glass Block,,pcs,35,2,,50,75,100
+Metal Black Screw,#1,pcs,1,2000,,50,75,100
+Metal Black Screw,#1.5,pcs,1.5,1000,,50,75,100
+Metal Black Screw,#2,pcs,2,1500,,50,75,100
+Wood Black Screw,#1,pcs,1,2000,,50,75,100
+Wood Black Screw,#1.5,pcs,1.5,4000,,50,75,100
+Wood Black Screw,#2,pcs,2,1500,,50,75,100
+Sacholyn Blue/Orange 8 Ft.,Manipis,meters,60,400,,,,
+Sacholyn Blue/Orange 8 Ft.,Makapal,meters,70,100,,,,
+Sacholyn Black 8 Ft.,,meters,70,300,,,,
+Tarpaulin 6 Ft.,,meters,100,100,,,,
+Plain Sheet 3x8,Manipis .3,pcs,230,53,,50,75,100
+Plain Sheet 3x8,Makapal .35,pcs,250,50,,50,75,100
+Barbed Wire,"Small (15 kg, 65 m)",rolls,1200,18,,5,8,12
+Barbed Wire,"Medium (25 kg, 124 m)",rolls,2000,7,,5,8,12
+Barbed Wire,"Large (28 kg, 150 m)",rolls,2470,16,,5,8,12
+Steel Matting 4x8 (B.I.),#6,pcs,1000,48,,50,75,100
+Steel Matting 4x8 (B.I.),#8,pcs,480,49,,50,75,100
+Steel Matting 4x8 (G.I.),#6,pcs,850,25,,50,75,100
+Steel Matting 4x8 (G.I.),#8,pcs,460,30,,50,75,100
+PVC Moulding,#1/2,pcs,50,21,,50,75,100
+PVC Moulding,#3/4,pcs,60,20,,50,75,100
+Flexible Hose,#1/2,meters,12,800,,,,
+Flexible Hose,#3/4,meters,16,600,,,,
+Junction Box,Euro,pcs,35,200,,50,75,100
+Junction Box,Ecolum,pcs,35,200,,50,75,100
+Junction Box,Firefly,pcs,20,100,,50,75,100
+Utility Box,Euro,pcs,20,100,,50,75,100
+Garden Hose,#1/2,meters,30,990,,,,
+Garden Hose,#3/4,meters,80,240,,,,
+Garden Hose,#5/8,meters,40,270,,,,
+SDR Hose Black,ISO #1/2,meters,25,2100,,,,
+SDR Hose Black,#1/2,meters,20,1800,,,,
+GSI Blue Hose,ISO #1/2,meters,28,600,,,,
+GSI Blue Hose,#1/2,meters,22,5700,,,,
+Toilet Pump,,pcs,50,2,,50,75,100
+Toilet Bowl,Small,pcs,750,17,,50,75,100
+Toilet Bowl,Big,pcs,1100,26,,50,75,100
+Toilet Bowl,w/ Cover,pcs,1200,6,,50,75,100
+Umbrella Nail,#2,kg,100,275,,10,20,30
+Umbrella Nail,#2.5,kg,100,150,,10,20,30
+Concrete Nail,#1,kg,100,25,,10,20,30
+Concrete Nail,#2,kg,100,50,,10,20,30
+Concrete Nail,#2.5,kg,100,100,,10,20,30
+Concrete Nail,#3,kg,100,50,,10,20,30
+Concrete Nail,#4,kg,100,25,,10,20,30
+Metal Teckscrew,#1.5,pcs,2,600,,50,75,100
+Metal Teckscrew,#2,pcs,2,5400,,50,75,100
+Metal Teckscrew,#2.5,pcs,2,600,,50,75,100
+Wood Teckscrew,#1,pcs,2,350,,50,75,100
+Wood Teckscrew,#2,pcs,2,2700,,50,75,100
+Wood Teckscrew,#2.5,pcs,2,900,,50,75,100
+PPR Pipe 1/2,Nagoya,pcs,100,148,,50,75,100
+PPR Pipe 1/2,Boraki,pcs,120,36,,50,75,100
+Black Pipe,#2,pcs,120,208,,50,75,100
+Black Pipe,#3,pcs,275,64,,50,75,100
+Black Pipe,#4,pcs,400,81,,50,75,100
+Black Pipe,#6,pcs,650,12,,50,75,100
+Orange Pipe (Royu),#1/2,pcs,115,490,,50,75,100
+Orange Pipe (Royu),#3/4,pcs,150,12,,50,75,100
+Orange Pipe (Royu),#1,pcs,160,50,,50,75,100
+Orange Pipe (Omega),#1/2,pcs,85,110,,50,75,100
+Orange Pipe (Omega),#3/4,pcs,110,96,,50,75,100
+Orange Pipe (Omega),#1,pcs,160,87,,50,75,100
+Orange Pipe (Omega),#1 1/4,pcs,190,58,,50,75,100
+Orange Pipe (Omega),#1 1/2,pcs,230,28,,50,75,100
+Orange Pipe (Omega),#2,pcs,290,60,,50,75,100
+Orange Pipe (Omega),#3,pcs,375,96,,50,75,100
+Orange Pipe (Omega),#4,pcs,500,39,,50,75,100
+Orange Fitting,Wye 4x4 (Lamco),pcs,195,33,,50,75,100
+Orange Fitting,Wye Reducer 4x2,pcs,150,94,,50,75,100
+Orange Fitting,Wye Reducer 4x3,pcs,175,38,,50,75,100
+Orange Fitting,Coupling #4,pcs,70,176,,50,75,100
+Orange Fitting,Coupling 2x3,pcs,48,40,,50,75,100
+Orange Fitting,Coupling 2x4,pcs,65,45,,50,75,100
+Orange Fitting,Coupling 3x4,pcs,75,21,,50,75,100
+Orange Fitting,Elbow 6 x 90°,pcs,870,1,,50,75,100
+Orange Fitting,Tee 6x6,pcs,1480,5,,50,75,100
+Ordinary Sink,275,pcs,275,6,,50,75,100
+Ordinary Sink,285,pcs,285,26,,50,75,100
+Ordinary Sink,325,pcs,325,17,,50,75,100
+Stainless Sink (Stallion),14x20,pcs,550,12,,50,75,100
+Stainless Sink (Stallion),16x24,pcs,1000,6,,50,75,100
+Stainless Sink (Randa),14x20,pcs,750,12,,50,75,100
+Stainless Sink (Randa),16x24,pcs,800,12,,50,75,100
+Orange Fitting,Elbow #2 x 90°,pcs,35,450,,50,75,100
+Orange Fitting,Elbow #2 x 45°,pcs,30,30,,50,75,100
+Orange Fitting,Tee #2,pcs,45,40,,50,75,100
+Orange Fitting,Wye #2 (Lamco),pcs,50,60,,50,75,100
+Orange Fitting,Coupling #2,pcs,30,85,,50,75,100
+Orange Fitting,P-Trap #2,pcs,100,80,,50,75,100
+Orange Fitting,Tee Reducer #2,pcs,75,15,,50,75,100
+Orange Fitting,Coupling #3 (Biom),pcs,50,34,,50,75,100
+Orange Fitting,Coupling #3,pcs,40,131,,50,75,100
+Orange Fitting,Elbow #3 x 90°,pcs,75,60,,50,75,100
+Orange Fitting,Elbow #3 x 45°,pcs,60,65,,50,75,100
+Orange Fitting,Tee #3,pcs,85,114,,50,75,100
+Orange Fitting,Wye #3,pcs,85,28,,50,75,100
+Orange Fitting,Wye #3 (Atlanta),pcs,160,13,,50,75,100
+Orange Fitting,Wye #3 (Lamco),pcs,95,102,,50,75,100
+Orange Fitting,Wye Reducer #3,pcs,85,30,,50,75,100
+Orange Fitting,Elbow #4 x 90°,pcs,120,45,,50,75,100
+Orange Fitting,Elbow #4 x 45°,pcs,100,15,,50,75,100
+Orange Fitting,Tee #4,pcs,180,30,,50,75,100
+Orange Fitting,Tee Reducer #4,pcs,110,27,,50,75,100
+Orange Fitting,Tee Reducer #4 (Bio),pcs,125,11,,50,75,100
+Orange Fitting,Tee Reducer #4 (Lamco),pcs,130,50,,50,75,100
+Orange Fitting,Tee Reducer #4 (Atlanta),pcs,135,10,,50,75,100
+Black Fitting,Elbow 2 x 90°,pcs,20,66,,50,75,100
+Black Fitting,Elbow 2 x 45°,pcs,18,12,,50,75,100
+Black Fitting,Tee 2x2,pcs,25,10,,50,75,100
+Black Fitting,Wye 2x2,pcs,25,20,,50,75,100
+Black Fitting,"P-Trap 2""",pcs,115,105,,50,75,100
+Black Fitting,"Coupling 2""",pcs,15,37,,50,75,100
+Black Fitting,Elbow 3 x 90°,pcs,45,17,,50,75,100
+Black Fitting,Elbow 3 x 45°,pcs,35,17,,50,75,100
+Black Fitting,Tee 3x3,pcs,40,207,,50,75,100
+Black Fitting,Wye 3x3,pcs,50,30,,50,75,100
+Black Fitting,Coupling #3,pcs,20,14,,50,75,100
+Black Fitting,Wye Reducer 3x2,pcs,53,56,,50,75,100
+Black Fitting,Tee Reducer 3x2,pcs,40,38,,50,75,100
+Black Fitting,Elbow 4 x 90°,pcs,135,374,,50,75,100
+Black Fitting,Elbow 4 x 45°,pcs,105,104,,50,75,100
+Black Fitting,Tee 4x4,pcs,165,47,,50,75,100
+Black Fitting,Wye 4x4,pcs,160,28,,50,75,100
+Black Fitting,Coupling #4,pcs,30,49,,50,75,100
+Black Fitting,Tee Reducer 4x3,pcs,155,52,,50,75,100
+Black Fitting,Tee Reducer 4x2,pcs,145,30,,50,75,100
+Black Fitting,Wye Reducer 4x2,pcs,155,6,,50,75,100
+Black Fitting,Wye Reducer 4x3,pcs,155,35,,50,75,100

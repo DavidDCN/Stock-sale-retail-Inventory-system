@@ -1,0 +1,126 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DCN
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : E8-9C-25-4C-13-D2
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0D
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f111:2236:9790:2ac2%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 889847847
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-88-E8-DB-E8-9C-25-4C-13-D2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : FA-54-F6-99-34-28
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : FE-54-F6-99-34-28
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::da35:db62:4c7e:47e2%18(Preferred) 
+   Autoconfiguration IPv4 Address. . : 169.254.136.124(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+   Physical Address. . . . . . . . . : F8-54-F6-99-34-28
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1745:6ad2:2cdb:2d4f%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.0.121(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, November 3, 2026 4:52:40 PM
+   Lease Expires . . . . . . . . . . : Tuesday, November 3, 2026 6:52:40 PM
+   Default Gateway . . . . . . . . . : 192.168.0.1
+   DHCP Server . . . . . . . . . . . : 192.168.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 167269622
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-88-E8-DB-E8-9C-25-4C-13-D2
+   DNS Servers . . . . . . . . . . . : 192.168.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+===========================================================================
+Interface List
+ 11...e8 9c 25 4c 13 d2 ......Realtek PCIe GbE Family Controller
+ 13...0a 00 27 00 00 0d ......VirtualBox Host-Only Ethernet Adapter
+  9...fa 54 f6 99 34 28 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 18...fe 54 f6 99 34 28 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  6...f8 54 f6 99 34 28 ......Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0      192.168.0.1    192.168.0.121     40
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      169.254.0.0      255.255.0.0         On-link   169.254.136.124    281
+  169.254.136.124  255.255.255.255         On-link   169.254.136.124    281
+  169.254.255.255  255.255.255.255         On-link   169.254.136.124    281
+      192.168.0.0    255.255.255.0         On-link     192.168.0.121    296
+    192.168.0.121  255.255.255.255         On-link     192.168.0.121    296
+    192.168.0.255  255.255.255.255         On-link     192.168.0.121    296
+     192.168.56.0    255.255.255.0         On-link      192.168.56.1    281
+     192.168.56.1  255.255.255.255         On-link      192.168.56.1    281
+   192.168.56.255  255.255.255.255         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link     192.168.0.121    296
+        224.0.0.0        240.0.0.0         On-link   169.254.136.124    281
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      192.168.56.1    281
+  255.255.255.255  255.255.255.255         On-link     192.168.0.121    296
+  255.255.255.255  255.255.255.255         On-link   169.254.136.124    281
+===========================================================================
+Persistent Routes:
+  None
+
+Domain Profile Settings: 
+----------------------------------------------------------------------
+State                                 OFF
+
+Private Profile Settings: 
+----------------------------------------------------------------------
+State                                 OFF
+
+Public Profile Settings: 
+----------------------------------------------------------------------
+State                                 ON
+Ok.
+
+failed to connect to local tailscaled process; is the Tailscale service running?

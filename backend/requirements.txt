@@ -1,0 +1,13 @@
+# pip install -r requirements.txt   (Python 3.11, Windows)
+fastapi
+uvicorn
+python-multipart      # photo uploads (multipart forms)
+pillow
+numpy
+rapidfuzz             # better fuzzy matching (optional; difflib is used without it)
+# OCR engine — install the build that matches your PC (CPU or CUDA GPU), as you already did:
+#   paddlepaddle  (or paddlepaddle-gpu)
+#   paddleocr
+# Only to build TresNinosShop.exe (see BUILD_EXE.md):
+#   pyinstaller
+#   pywebview

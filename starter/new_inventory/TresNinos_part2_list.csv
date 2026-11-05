@@ -1,0 +1,222 @@
+﻿Product,Type,Unit,Selling price,Stock,Standard cost,A,B,C
+Concrete Post,4x4x7 Ft.,pcs,275,300,,50,75,100
+Culvert,#6,pcs,300,15,,50,75,100
+Culvert,#8,pcs,550,10,,50,75,100
+Culvert,#12,pcs,800,13,,50,75,100
+Decorated Hollow Blocks,10x8,pcs,60,100,,50,75,100
+Screen Sand,Per Cubic,cu. meters,1800,30,,,,
+Screen Sand,Per Bag w/ Sack,bags,60,,,,,
+Screen Sand,Per Bag w/out Sack,bags,65,,,,,
+Fine Sand,Per Cubic,cu. meters,2400,30,,,,
+Fine Sand,Per Bag w/ Sack,bags,70,,,,,
+Fine Sand,Per Bag w/out Sack,bags,75,,,,,
+3/4 Crusher,Per Cubic,cu. meters,2500,30,,,,
+3/4 Crusher,Per Bag w/ Sack,bags,70,,,,,
+3/4 Crusher,Per Bag w/out Sack,bags,75,,,,,
+G.I. Gravel,Per Cubic,cu. meters,2500,30,,,,
+G.I. Gravel,Per Bag w/ Sack,bags,70,,,,,
+G.I. Gravel,Per Bag w/out Sack,bags,75,,,,,
+Panambar,Per Cubic,cu. meters,900,30,,,,
+Orange Pipe (Atlanta) S-600,#1,pcs,370,20,,50,75,100
+Orange Pipe (Atlanta) S-600,#3,pcs,740,29,,50,75,100
+Orange Pipe (Atlanta) S-600,#4,pcs,950,24,,50,75,100
+Orange Pipe (Atlanta) S-1000,#2,pcs,495,36,,50,75,100
+Orange Pipe (Atlanta) S-1000,#3,pcs,1080,45,,50,75,100
+Orange Pipe (Atlanta) S-1000,#4,pcs,1430,42,,50,75,100
+Orange Pipe (Atlanta) S-1000,#6,pcs,2750,11,,50,75,100
+Blue Pipe (Omega),1/2,pcs,75,125,,50,75,100
+Blue Pipe (Omega),3/4,pcs,95,75,,50,75,100
+Blue Pipe (Omega),1,pcs,140,12,,50,75,100
+Blue Pipe (Omega),1 1/4,pcs,215,20,,50,75,100
+Blue Pipe (Omega),1 1/2,pcs,295,23,,50,75,100
+Blue Pipe (Omega),2,pcs,370,30,,50,75,100
+Blue Pipe (Moldex),3/4,pcs,145,50,,50,75,100
+Blue Pipe (Moldex),1 1/2,pcs,390,20,,50,75,100
+Blue Pipe (Moldex),2,pcs,580,25,,50,75,100
+Blue Pipe (Royu),1/2,pcs,100,309,,50,75,100
+Blue Pipe (Royu),3/4,pcs,0,0,,50,75,100
+Blue Pipe (Royu),1,pcs,185,15,,50,75,100
+Straight Connector,1/2,pcs,10,450,,50,75,100
+Straight Connector,3/4,pcs,15,260,,50,75,100
+Square Box 4x4 (Orange),,pcs,25,25,,50,75,100
+Surface Utility Box,,pcs,35,30,,50,75,100
+Electrical Tape (Black),Small,pcs,25,225,,50,75,100
+Electrical Tape (Black),Medium,pcs,25,230,,50,75,100
+Electrical Tape (Black),Large,pcs,55,250,,50,75,100
+Electrical Tape (Colored),Small,pcs,25,150,,50,75,100
+Electrical Tape (Colored),Medium,pcs,35,80,,50,75,100
+Electrical Tape (Colored),Large,pcs,55,180,,50,75,100
+Metal Utility Box,,pcs,35,15,,50,75,100
+Metal Junction Box,,pcs,50,15,,50,75,100
+Staple Wire (100 pcs/box),1/2,boxes,45,150,,,,
+Staple Wire (100 pcs/box),3/4,boxes,55,120,,,,
+Staple Wire (100 pcs/box),1,boxes,60,80,,,,
+Electrical Elbow (Orange),1/2 Short,pcs,12,120,,50,75,100
+Electrical Elbow (Orange),1/2 Semi Short,pcs,14,160,,50,75,100
+Electrical Elbow (Orange),1/2 Long,pcs,25,200,,50,75,100
+Electrical Elbow (Orange),3/4 Short,pcs,14,50,,50,75,100
+Electrical Elbow (Orange),3/4 Semi Short,pcs,20,60,,50,75,100
+Electrical Elbow (Orange),3/4 Long,pcs,25,55,,50,75,100
+Screw Insulator,Small,pcs,25,50,,50,75,100
+Screw Insulator,Big,pcs,35,5,,50,75,100
+Secondary Rack,,pcs,120,150,,50,75,100
+Spool Insulator,,pcs,65,170,,50,75,100
+Entrance Cup,1/2,pcs,75,120,,50,75,100
+Entrance Cup,3/4,pcs,95,100,,50,75,100
+Entrance Cup,1,pcs,100,60,,50,75,100
+Male Adapter (Orange),1/2,pcs,12,150,,50,75,100
+Male Adapter (Orange),3/4,pcs,15,80,,50,75,100
+THHN Wire (Powerflex),#14 (2.0),meters,23,3300,,,,
+THHN Wire (Powerflex),#12 (3.5),meters,33,2400,,,,
+THHN Wire (Powerflex),#10 (5.5),meters,50,600,,,,
+THHN Wire (Powerflex),#8 (8.0 mm),meters,80,600,,,,
+THHN Wire (Powerflex),#6 (14 mm),meters,150,0,,,,
+THHN Wire (Royu),#14 (2.0),meters,30,450,,,,
+THHN Wire (Royu),#12 (3.5),meters,43,300,,,,
+THHN Wire (Royu),#10 (5.5),meters,65,450,,,,
+THHN Wire (Royu),#6 (14 mm),meters,180,300,,,,
+PDX Wire (Powerflex),#14 (1.6),meters,55,375,,,,
+PDX Wire (Powerflex),#12 (2.0),meters,75,75,,,,
+PDX Wire (Powerflex),#10 (2.6),meters,85,75,,,,
+Automotive Wire (Paciflex),#8,meters,125,0,,,,
+Automotive Wire (Paciflex),#10,meters,85,0,,,,
+Automotive Wire (Paciflex),#12,meters,55,0,,,,
+Flat Cord Wire (Royu),#22,meters,15,450,,,,
+Flat Cord Wire (Royu),#18,meters,25,600,,,,
+Flat Cord Wire (Royu),#16,meters,35,450,,,,
+Service Drop Wire,#4,meters,28,2000,,,,
+Service Drop Wire,#6,meters,60,1000,,,,
+Flat Bar (20 Ft.),2.0 x 1 1/2 Blue,pcs,75,30,,50,75,100
+Flat Bar (20 Ft.),2.0 x 1 Blue,pcs,128,41,,50,75,100
+Flat Bar (20 Ft.),3.0 x 1 1/2 Red,pcs,430,45,,50,75,100
+Flat Bar (20 Ft.),3.0 x 1 1/2 Red (other),pcs,420,18,,50,75,100
+Flat Bar (20 Ft.),4.0 x 1 1/2 White,pcs,565,42,,50,75,100
+Flat Bar (20 Ft.),4.0 x 1 1/2 White (other),pcs,1600,0,,50,75,100
+Flat Bar (20 Ft.),4.0 x 2 White,pcs,700,10,,50,75,100
+Flat Bar (20 Ft.),4.0 x 3/4 White,pcs,240,32,,50,75,100
+Flat Bar (20 Ft.),4.0 x 1 White,pcs,300,52,,50,75,100
+Flat Bar (20 Ft.),5.0 x 1 1/2 Yellow,pcs,695,52,,50,75,100
+Flat Bar (20 Ft.),5.0 x 1 Yellow,pcs,390,60,,50,75,100
+Flat Bar (20 Ft.),5.0 x 2 Yellow,pcs,895,50,,50,75,100
+Stainless Shafting,3/16,pcs,4600,8,,50,75,100
+Stainless Shafting,1/4,pcs,535,15,,50,75,100
+Stainless Shafting,3/8,pcs,1074,11,,50,75,100
+Stainless Shafting,1/2,pcs,1800,8,,50,75,100
+PVC Board,3/4,pcs,3750,4,,50,75,100
+Angle Bar (20 Ft.),2.0 x 3/8 Blue (1 1/2),pcs,460,40,,50,75,100
+Angle Bar (20 Ft.),2.0 x 25 Blue (1),pcs,275,67,,50,75,100
+Angle Bar (20 Ft.),2.5 x 25 Red (1/8 x 1 - 7mm),pcs,360,48,,50,75,100
+Angle Bar (20 Ft.),2.5 x 3/8 Red (1/8 x 1 1/2),pcs,540,50,,50,75,100
+Angle Bar (20 Ft.),2.5 x 50 Red (1/8 x 2),pcs,660,46,,50,75,100
+Angle Bar (20 Ft.),2.0 x 30 Blue (1 1/4),pcs,385,31,,50,75,100
+Angle Bar (20 Ft.),3.5 x 25 Green (3/16 x 1),pcs,465,60,,50,75,100
+Angle Bar (20 Ft.),3.5 x 30 Green (3/16 x 1 1/4),pcs,670,0,,50,75,100
+Angle Bar (20 Ft.),3.5 x 3/8 Green (3/16 x 1 1/2),pcs,745,21,,50,75,100
+Angle Bar (20 Ft.),3.5 x 50 Green (3/16 x 2),pcs,740,35,,50,75,100
+Angle Bar (20 Ft.),4.0 x 25 Orange (1),pcs,570,50,,50,75,100
+Angle Bar (20 Ft.),4.0 x 32 Orange (1 1/2),pcs,840,50,,50,75,100
+Angle Bar (20 Ft.),5.0 x 25 White (1 1/4 x 1),pcs,660,27,,50,75,100
+Angle Bar (20 Ft.),5.0 x 3/8 White (1 1/4 x 1 1/2),pcs,965,28,,50,75,100
+Angle Bar (20 Ft.),5.0 x 50 White (1 1/4 x 2),pcs,3700,30,,50,75,100
+Angle Bar (20 Ft.),6.0 x 50 Brown,pcs,1450,34,,50,75,100
+Angle Bar (20 Ft.),3.0 x 3/8 Yellow (1 1/2),pcs,625,30,,50,75,100
+Angle Bar (20 Ft.),3.0 x 30 Yellow (1 1/4),pcs,445,0,,50,75,100
+Angle Bar (20 Ft.),3.0 x 50 Yellow (2),pcs,850,60,,50,75,100
+Angle Bar (20 Ft.),3.0 x 25 Yellow (1),pcs,395,40,,50,75,100
+G.I. C-Purlins (14 Ft.),2x3 1.0,pcs,370,150,,50,75,100
+G.I. C-Purlins (14 Ft.),2x3 1.2,pcs,505,98,,50,75,100
+G.I. C-Purlins (14 Ft.),2x3 1.4,pcs,740,0,,50,75,100
+G.I. C-Purlins (14 Ft.),2x3 1.5,pcs,815,70,,50,75,100
+G.I. C-Purlins (14 Ft.),2x4 1.0,pcs,620,45,,50,75,100
+G.I. C-Purlins (14 Ft.),2x4 1.2,pcs,750,56,,50,75,100
+G.I. C-Purlins (14 Ft.),2x4 1.4,pcs,1210,0,,50,75,100
+G.I. C-Purlins (14 Ft.),2x4 1.5,pcs,960,76,,50,75,100
+G.I. C-Purlins (14 Ft.),2x6 1.2,pcs,1050,20,,50,75,100
+B.I. C-Purlins (14 Ft.),2x4 1.4,pcs,978,26,,50,75,100
+Square Bar,3/8 (9mm) 3.1 K Yellow,pcs,190,70,,50,75,100
+Square Bar,1/2 (10mm) 3.6 K Blue,pcs,228,60,,50,75,100
+Square Bar,5/8 8.0 K White,pcs,600,35,,50,75,100
+Square Bar,10mm 1.8 K White,pcs,735,35,,50,75,100
+Square Bar,11mm 4.0 K White,pcs,250,25,,50,75,100
+Square Bar,12mm 4.6 K Pink,pcs,300,55,,50,75,100
+Cut Off Machine (Oxford),,pcs,4500,2,,50,75,100
+Plain Bar / Round Bar,1/4 (7mm) 1.9 K Yellow,pcs,130,20,,50,75,100
+Plain Bar / Round Bar,8mm 2.2 K Blue,pcs,140,25,,50,75,100
+Plain Bar / Round Bar,1/2 (10mm) 4.0 K Blue,pcs,250,15,,50,75,100
+Plain Bar / Round Bar,12mm 5.0 K Red,pcs,320,40,,50,75,100
+Plain Bar / Round Bar,16mm 8.8 K,pcs,560,60,,50,75,100
+Plain Bar / Round Bar,5/8 8.0 K,pcs,470,60,,50,75,100
+Plain Bar / Round Bar,3/8 2.9 K White,pcs,470,55,,50,75,100
+Plain Bar / Round Bar,5.8 K Green,pcs,384,24,,50,75,100
+Welding Machine (Mega),Small,pcs,3850,2,,50,75,100
+Welding Machine (Mega),Big,pcs,5400,3,,50,75,100
+Brush Cutter 4 Stroke (Branded),,pcs,6500,2,,50,75,100
+Ordinary Plywood,1/8,pcs,410,31,,50,75,100
+Ordinary Plywood,3/16,pcs,0,0,,50,75,100
+Ordinary Plywood,1/4,pcs,560,119,,50,75,100
+Ordinary Plywood,3/8 (9mm),pcs,0,0,,50,75,100
+Ordinary Plywood,3/8 (10mm),pcs,980,46,,50,75,100
+Ordinary Plywood,1/2 (11mm),pcs,1025,10,,50,75,100
+Ordinary Plywood,3/4 (18mm),pcs,1590,21,,50,75,100
+Shera Board,3.5mm,pcs,390.5,48,,50,75,100
+Shera Board,4.5mm,pcs,480,73,,50,75,100
+Shera Board Sanepa,1/2 (12x8),pcs,410,26,,50,75,100
+Shera Board Sanepa,1/2 (10x8),pcs,340,36,,50,75,100
+Shera Board Sanepa,9mm (10x8),pcs,275,44,,50,75,100
+Nihon Bond 4x8,#26 (.5),pcs,1050,10,,50,75,100
+Nihon Bond 4x8,#18 (1.1),pcs,1520,12,,50,75,100
+Nihon Bond 4x8,#16 (1.6),pcs,2030,20,,50,75,100
+Marine Plywood,3/16,pcs,650,37,,50,75,100
+Marine Plywood,1/4,pcs,800,27,,50,75,100
+Marine Plywood,3/8 (9mm),pcs,1340,14,,50,75,100
+Marine Plywood,3/8 (10mm),pcs,0,0,,50,75,100
+Marine Plywood,1/2 (11mm),pcs,1470,1,,50,75,100
+Marine Plywood,3/4 (18mm),pcs,2560,4,,50,75,100
+Fenolic Board,1/2 (12mm),pcs,1260,25,,50,75,100
+Fenolic Board,16mm,pcs,1350,46,,50,75,100
+Hardiflex Sanepa,1/2 (10x8),pcs,480,2,,50,75,100
+Hardiflex Sanepa,9mm (10x8),pcs,351,2,,50,75,100
+Wall Angle,.3mm,pcs,50,234,,50,75,100
+Metal Stud,2x3 - 9 1/2 Ft.,pcs,120,150,,50,75,100
+Metal Furring,1x2 - 10 Ft.,pcs,110,250,,50,75,100
+Metal Track,9 1/2 Ft.,pcs,135,150,,50,75,100
+Carrying Channel,1x2 - 16 Ft.,pcs,135,200,,50,75,100
+G.I. Pipe (S-20),1/2,pcs,370,49,,50,75,100
+G.I. Pipe (S-20),3/4,pcs,460,22,,50,75,100
+G.I. Pipe (S-20),1,pcs,660,24,,50,75,100
+G.I. Pipe (S-20),1 1/4,pcs,895,17,,50,75,100
+G.I. Pipe (S-20),1 1/2,pcs,1025,52,,50,75,100
+G.I. Pipe (S-20),2,pcs,1520,20,,50,75,100
+G.I. Pipe (S-20),2 1/2,pcs,2257,19,,50,75,100
+G.I. Pipe (S-20),3,pcs,2680,12,,50,75,100
+G.I. Pipe (S-20),4,pcs,3825,14,,50,75,100
+G.I. Tubular (20 Ft.),3/4 x 3/4 (1.2),pcs,320,25,,50,75,100
+G.I. Tubular (20 Ft.),3/4 x 3/4 (1.5),pcs,430,98,,50,75,100
+G.I. Tubular (20 Ft.),1 x 1 (1.2),pcs,420,36,,50,75,100
+G.I. Tubular (20 Ft.),1 x 1 (1.5),pcs,520,89,,50,75,100
+G.I. Tubular (20 Ft.),1.5 x 1.5 (1.2),pcs,670,30,,50,75,100
+G.I. Tubular (20 Ft.),1 x 2 (1.2),pcs,630,34,,50,75,100
+G.I. Tubular (20 Ft.),1 x 2 (1.5),pcs,795,77,,50,75,100
+G.I. Tubular (20 Ft.),1.5 x 1.5 (1.5),pcs,795,49,,50,75,100
+G.I. Tubular (20 Ft.),2 x 2 (1.2),pcs,845,19,,50,75,100
+G.I. Tubular (20 Ft.),2 x 2 (1.5),pcs,1000,20,,50,75,100
+G.I. Tubular (20 Ft.),2 x 3 (1.2),pcs,1050,53,,50,75,100
+G.I. Tubular (20 Ft.),2 x 3 (1.5),pcs,1150,42,,50,75,100
+G.I. Tubular (20 Ft.),2 x 4 (1.2),pcs,1250,43,,50,75,100
+G.I. Tubular (20 Ft.),2 x 4 (1.5),pcs,1590,32,,50,75,100
+G.I. Tubular (20 Ft.),2 x 6 (1.2),pcs,1995,42,,50,75,100
+G.I. Tubular (20 Ft.),2 x 6 (1.5),pcs,2000,53,,50,75,100
+G.I. Pipe (S-40),1/2,pcs,470,46,,50,75,100
+G.I. Pipe (S-40),3/4,pcs,715,22,,50,75,100
+G.I. Pipe (S-40),1,pcs,910,43,,50,75,100
+G.I. Pipe (S-40),1 1/4,pcs,1275,25,,50,75,100
+G.I. Pipe (S-40),1 1/2,pcs,1480,30,,50,75,100
+G.I. Pipe (S-40),2,pcs,1995,24,,50,75,100
+G.I. Pipe (S-40),2 1/2,pcs,2690,20,,50,75,100
+G.I. Pipe (S-40),3,pcs,3395,8,,50,75,100
+G.I. Pipe (S-40),4,pcs,4175,6,,50,75,100
+B.I. Tubular (20 Ft.),1 x 1 (.9) Pink,pcs,550,3,,50,75,100
+B.I. Tubular (20 Ft.),1 x 2 (1.2) Red,pcs,670,9,,50,75,100
+B.I. Tubular (20 Ft.),2 x 4 (1.2) Red,pcs,1850,12,,50,75,100
+Welding Cable,2ro,meters,60,30,,,,
+Welding Cable,3ro,meters,160,30,,,,
